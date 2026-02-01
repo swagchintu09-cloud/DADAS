@@ -67,7 +67,7 @@ export const Contact = () => {
                       onClick={() => window.open('https://discord.gg/ZVz7CgTy5v', '_blank')}
                     >
                       <img src={aeroXIcon} alt="AeroX Icon" className="w-4 h-4 mr-2" />
-                      AeroX
+                      discord
                     </Button>
                     <Button
                       variant="outline"
