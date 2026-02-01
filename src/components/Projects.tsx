@@ -6,8 +6,8 @@ import { Button } from "./ui/button";
 import { portfolioConfig } from "../config/portfolio.config";
 import AeroXIcon from "../assets/Lex.png";
 import StreliziaIcon from "../assets/Leviathan.png";
-import AddieIcon from "../assets/.png";
-import StrelixCloudIcon from "../assets/StrelixCloud.png";
+import AddieIcon from "../assets/Frost.png";
+import StrelixCloudIcon from "../assets/IndraX.png";
 
 const statusIcons = {
   production: Star,
