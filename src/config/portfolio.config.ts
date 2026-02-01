@@ -12,7 +12,7 @@ export const portfolioConfig = {
 
   // SEO & Meta
   seo: {
-    title: "r3tract0 </>",
+    title: "r3tract0",
     description: "Professional bot creator creating modern applications. View my portfolio showcasing recent projects and technical expertise.",
     keywords: ["bot creator", "discord.py", "python", "node.js", "discord bots", "automation"],
     ogImage: "/og-image.png"
