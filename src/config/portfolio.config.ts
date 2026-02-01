@@ -72,7 +72,7 @@ export const portfolioConfig = {
     {
       name: "Lex",
       year: "2026", 
-      description: "A comprehensive development platform and community hub for programmers and coders.",
+      description: "A work in progress discord bot with many features",
       tags: ["Nodejs", "Antinuke", "WIP"],
       status: "production",
       featured: true,
@@ -81,15 +81,39 @@ export const portfolioConfig = {
         live: "https://dsc.gg/rynxsupport"
       }
     },
+    {
+      name: "Frost",
+      year: "2025", 
+      description: "Just a bot I made for testing different codes",
+      tags: ["Nodejs", "Antinuke", "WIP"],
+      status: "production",
+      featured: true,
+      links: {
+        github: "https://dsc.gg/rynxsupport",
+        live: "https://dsc.gg/rynxsupport"
+      }
+    },
+    {
+      name: "IndraX",
+      year: "2026", 
+      description: "Just managing this bot, join the support server to become staff ",
+      tags: ["Nodejs", "Antinuke", "WIP"],
+      status: "production",
+      featured: true,
+      links: {
+        github: "https://discord.gg/xqZ25MPCFs",
+        live: "https://discord.gg/xqZ25MPCFs"
+      }
+    },
     ],
 
   // Social Links
   social: {
-    github: "https://github.com/swagchintu09",
+    github: "https://github.com/swagchintu09-cloud",
     linkedin: "https://dsc.gg/rynxsupport",
     twitter: "https://dsc.gg/rynxsupport",
-    youtube: "https://youtube.com/@aerox-devs?si=PfSlKrjWD_pV2SXb",
-    email: "swagchintu09@gmail.com"
+    youtube: "https://youtube.com/@spacenodeshost",
+    email: "hrishithpujari@gmail.com"
   },
 
   // Content Sections
