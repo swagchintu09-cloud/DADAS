@@ -54,7 +54,7 @@ export const Skills = () => {
                       key={skill.name}
                       animation="fade-in"
                       delay={1 + index * 0.05}
-                    >
+                    
                       <div className="skill-badge p-6 rounded-xl text-center group relative bg-terminal-window/50 border border-accent/20 hover:border-accent/40 transition-all duration-300 hover:scale-105">
                         <div className="relative z-10">
                           {/* Simplified Icon */}
