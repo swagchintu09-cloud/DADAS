@@ -7,7 +7,7 @@ export const portfolioConfig = {
     tagline: "Hello, I'm r3tract0, a professional bot creator to help servers from being nuked. I also help in managing server. I am the manager of IndraX bot!",
     email: "hrishithpujari@gmail.com",
     location: "India",
-    avatar: "/src/assets/aegis.png"
+    avatar: "/src/assets/r3tract0.png"
   },
 
   // SEO & Meta
