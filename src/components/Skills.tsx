@@ -50,7 +50,7 @@ export const Skills = () => {
                 {skillsData.map((skill, index) => {
                   const IconComponent = iconMap[skill.category as keyof typeof iconMap] || Code;
                   return (
-                    <AnimatedSection
+                    <AnimatedSection>
                       key={skill.name}
                       animation="fade-in"
                       delay={1 + index * 0.05}
