@@ -45,7 +45,7 @@ export const Hero = () => {
       </div>
 
       <AnimatedSection animation="slide-in-up" className="w-full relative z-10">
-        <TerminalWindow title="root@aegis:~#" className="w-full max-w-4xl mx-auto backdrop-blur-md bg-background/95 border border-primary/20 shadow-2xl">
+        <TerminalWindow title="root@r3tract0:~#" className="w-full max-w-4xl mx-auto backdrop-blur-md bg-background/95 border border-primary/20 shadow-2xl">
           <div className="text-center space-y-8">
             {/* Sleek Avatar with Smooth Glow */}
             <AnimatedSection animation="slide-in-up" delay={1} className="flex justify-center">
