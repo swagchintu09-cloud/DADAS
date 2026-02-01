@@ -2,19 +2,19 @@
 export const portfolioConfig = {
   // Personal Information
   personal: {
-    name: "Aegis",
-    title: "Bot Developer",
-    tagline: "Hello, I'm Aegis, a professional bot developer specializing in modern digital solutions. I create reliable, scalable applications that help businesses grow and succeed online.",
-    email: "aegis@strelixcloud.com",
-    location: "N/A",
+    name: "r3tract0 </>",
+    title: "Bot Creator",
+    tagline: "Hello, I'm r3tract0, a professional bot creator to help servers from being nuked. I also help in managing server. I am the manager of IndraX bot!",
+    email: "hrishithpujari@gmail.com",
+    location: "India",
     avatar: "/src/assets/aegis.png"
   },
 
   // SEO & Meta
   seo: {
-    title: "Aegis - Bot Developer Portfolio",
-    description: "Professional bot developer creating modern applications. View my portfolio showcasing recent projects and technical expertise.",
-    keywords: ["bot developer", "discord.py", "python", "node.js", "discord bots", "automation"],
+    title: "r3tract0 </>",
+    description: "Professional bot creator creating modern applications. View my portfolio showcasing recent projects and technical expertise.",
+    keywords: ["bot creator", "discord.py", "python", "node.js", "discord bots", "automation"],
     ogImage: "/og-image.png"
   },
 
@@ -58,74 +58,38 @@ export const portfolioConfig = {
   // Projects Configuration
   projects: [
     {
-      name: "StrelixCloud",
-      year: "2025",
-      description: "Professional hosting platform providing custom development and premium digital solutions for modern businesses and gaming communities.",
-      tags: ["Pterodactyl", "Proxmox", "Docker"],
+      name: "Leviathan",
+      year: "2026",
+      description: "An antinuke discord bot, with many other features.",
+      tags: ["Anti-Wizz", "Discord", "antinuke"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://strelixcloud.com"
+        github: "https://dsc.gg/botleviathan",
+        live: "https://dsc.gg/botleviathan"
       }
     },
     {
-      name: "AeroX",
-      year: "2025", 
+      name: "Lex",
+      year: "2026", 
       description: "A comprehensive development platform and community hub for programmers and coders.",
-      tags: ["Discord.py", "Python3", "Nodejs"],
+      tags: ["Nodejs", "Antinuke", "WIP"],
       status: "production",
       featured: true,
       links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/ZVz7CgTy5v"
+        github: "https://dsc.gg/rynxsupport",
+        live: "https://dsc.gg/rynxsupport"
       }
     },
-    {
-      name: "Strelizia",
-      year: "2025",
-      description: "Advanced automation and management platform with powerful features for streamlined workflows.",
-      tags: ["Python", "Automation", "Discord"],
-      status: "production",
-      featured: true,
-      links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
-      }
-    },
-    {
-      name: "Addiee",
-      year: "2025",
-      description: "Advanced Discord bot with modern features for server management and community engagement.",
-      tags: ["React", "TypeScript", "Node.js"],
-      status: "coming soon",
-      featured: false,
-      links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
-      }
-    },
-    {
-      name: "Strelix Selfbot",
-      year: "2025",
-      description: "Interactive data visualization and analytics platform for creating comprehensive dashboards with real-time insights.",
-      tags: ["JavaScript", "nodejs", "selfbot.js"],
-      status: "coming soon",
-      featured: false,
-      links: {
-        github: "https://github.com/AeroXDevs",
-        live: "https://discord.gg/strelix"
-      }
-    }
-  ],
+    ],
 
   // Social Links
   social: {
-    github: "https://github.com/AeroXDevs",
-    linkedin: "https://linkedin.com/in/aegis",
-    twitter: "https://twitter.com/aegis",
+    github: "https://github.com/swagchintu09",
+    linkedin: "https://dsc.gg/rynxsupport",
+    twitter: "https://dsc.gg/rynxsupport",
     youtube: "https://youtube.com/@aerox-devs?si=PfSlKrjWD_pV2SXb",
-    email: "mailto:aegis@strelixcloud.com"
+    email: "swagchintu09@gmail.com"
   },
 
   // Content Sections
@@ -133,7 +97,7 @@ export const portfolioConfig = {
     about: {
       title: "About Me",
       paragraphs: [
-        "I am a dedicated bot developer with expertise in creating efficient, user-friendly applications. I focus on delivering high-quality solutions that meet business requirements and exceed user expectations.",
+        "I am a dedicated bot creator with expertise in creating efficient, user-friendly applications. I focus on delivering high-quality solutions that meet business requirements and exceed user expectations.",
         "I stay current with industry trends and best practices, continuously expanding my technical skills to provide the most effective solutions for each project."
       ],
       availability: "Currently available for new projects"
