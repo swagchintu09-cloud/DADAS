@@ -4,9 +4,9 @@ import { Badge } from "./ui/badge";
 import { ExternalLink, Github, Clock, Star, Youtube } from "lucide-react";
 import { Button } from "./ui/button";
 import { portfolioConfig } from "../config/portfolio.config";
-import AeroXIcon from "../assets/AeroX.png";
-import StreliziaIcon from "../assets/Strelizia.png";
-import AddieIcon from "../assets/Addie.png";
+import AeroXIcon from "../assets/Lex.png";
+import StreliziaIcon from "../assets/Leviathan.png";
+import AddieIcon from "../assets/.png";
 import StrelixCloudIcon from "../assets/StrelixCloud.png";
 
 const statusIcons = {
